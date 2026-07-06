@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anni143m/LEETCODE-SOLUTION-IN-CPP/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/anni143m/LEETCODE-SOLUTION-IN-CPP/tree/master/0844-backspace-string-compare) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/anni143m/LEETCODE-SOLUTION-IN-CPP/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/anni143m/LEETCODE-SOLUTION-IN-CPP/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/anni143m/LEETCODE-SOLUTION-IN-CPP/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
