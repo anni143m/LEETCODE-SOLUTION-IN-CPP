@@ -30,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anni143m/LEETCODE-SOLUTION-IN-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anni143m/LEETCODE-SOLUTION-IN-CPP/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
